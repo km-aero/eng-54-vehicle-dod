@@ -5,6 +5,7 @@ This repository contains 3 classes:
 - Vehicle class
 - Car class
 - Plane class
+
 The car and plane classes are both child classes of the vehicle class.
 
 ## Characteristics
